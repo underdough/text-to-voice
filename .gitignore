@@ -1,0 +1,7 @@
+# Extensiones .mp3 y archivo user_input.txt
+*.mp3
+user_input.txt
+
+# Archivos temporales
+__pycache__/
+*.pyc
